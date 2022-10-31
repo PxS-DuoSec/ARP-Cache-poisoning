@@ -23,5 +23,5 @@ Open wireshark, then in the filter bar type ``ip.addr=$THE_VICTIM_IP``, and you 
 
 # Informations :
 
-- Written by : Presta & Sendax 
+- Written by : Presta 
 - Language : Python3
